@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am Olesya and I enjoy working with ✨data✨. I like to solve problems that help companies get real value from their data.
+I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that help companies get real value from their data.
 
 📫 More about me on: https://ca.linkedin.com/in/olesya-irkhina-3a890765
 
-My practical expiriences
-https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+![python]https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e
 
 https://camo.githubusercontent.com/171337fed2f458bbb07acb9df588aad04bbc50c82334ffe9c9d19f1ef6f1518a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d70616e6461732d3035313232413f7374796c653d666c6174266c6f676f3d70616e646173
 
