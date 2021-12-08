@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Olesya and I enjoy working with ✨ _data_✨. I like to solve problems that help companies get real value from their data.
+
+More about me on: https://ca.linkedin.com/in/olesya-irkhina-3a890765
+
 <!--
 **itekkie/itekkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
