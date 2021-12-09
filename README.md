@@ -4,25 +4,38 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 
 More about me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765)
 
-<details>
+<!-- <details>
 	<summary>:books:&nbsp;&nbsp;&nbsp;<b>𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸</b></summary>
-	<br/>
+	<br/> -->
  
-![VBA](https://img.shields.io/badge/-VBA-05122A?style=flat&logo=VBA)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark)&nbsp;
+<!-- ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Excel)&nbsp;
+![VBScript](https://img.shields.io/badge/-VBScript-05122A?style=flat&logo=VBScript)&nbsp;
+![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
+![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
+![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
+![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp; -->
-<!-- ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)&nbsp; -->
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp; -->
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)&nbsp; -->
 
 
- </details>
+<!--  </details> -->
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Excel)
+![VBScript](https://img.shields.io/badge/-VBScript-05122A?style=flat&logo=VBScript)
+![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
+![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)
+![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)
+![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)
+![Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)
+
 <!--
 **itekkie/itekkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
