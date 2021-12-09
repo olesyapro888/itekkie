@@ -28,7 +28,6 @@ More about me on:
 :books: 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
 </br>
 </br>
-![VBScript](https://img.shields.io/badge/-VBScript-05122A?style=flat&logo=VBScript)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
 ![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
@@ -44,7 +43,7 @@ More about me on:
 ![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=Flask)
 ![Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)
-![qlik_sense](https://img.shields.io/badge/-Qlik_sense-05122A?style=flat&logo=Qlik_Sense)
+![qlik_sense](https://img.shields.io/badge/-QlikSense-05122A?style=flat&logo=QlikSense)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)
 
 
