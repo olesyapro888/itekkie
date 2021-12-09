@@ -2,7 +2,12 @@
 
 I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that help companies get real value from their data.
 
-More about me on: [<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765)
+More about me on: 
+<!-- [<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
+
+<a href="https://ca.linkedin.com/in/olesya-irkhina-3a890765">
+        <img src="img/social-linkedin.png" alt="Linkedin">
+</a>
 
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
 
