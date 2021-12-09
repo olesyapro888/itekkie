@@ -11,6 +11,7 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 <!--  </details> -->
 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
 </br>
+
 [<img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter"/>](https://github.com/itekkie/Movies-ETL/blob/main/Movies_ETL.ipynb)
 [<img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R"/>](https://github.com/itekkie/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
 [<img src="https://img.shields.io/badge/-python-05122A?style=flat&logo=python"/>](https://github.com/itekkie/election-analysis/blob/main/PyPoll_Challenge.py)
