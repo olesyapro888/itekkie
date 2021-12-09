@@ -8,7 +8,7 @@ More about me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg
 	<summary>:books:&nbsp;&nbsp;&nbsp;<b>𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸</b></summary>
 	<br/> -->
  
-<!-- ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Excel)&nbsp;
+<!-- 
 ![VBScript](https://img.shields.io/badge/-VBScript-05122A?style=flat&logo=VBScript)&nbsp;
 ![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 ![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
@@ -23,12 +23,14 @@ More about me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg
 
 
 <!--  </details> -->
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Excel)
 ![VBScript](https://img.shields.io/badge/-VBScript-05122A?style=flat&logo=VBScript)
+![Jupyter notebook](https://img.shields.io/badge/-Jupyter_notebook-05122A?style=flat&logo=Jupyter_notebook)
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
 ![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
 ![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)
 ![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)
-![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)
+![hvPlot](https://img.shields.io/badge/-hvPlot-05122A?style=flat&logo=hvPlot)
+![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=SciPy)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
