@@ -24,18 +24,23 @@ More about me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg
 
 <!--  </details> -->
 :books: 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
+</br>
 ![VBScript](https://img.shields.io/badge/-VBScript-05122A?style=flat&logo=VBScript)
-![Jupyter notebook](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
 ![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
 ![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)
 ![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)
 ![hvPlot](https://img.shields.io/badge/-hvPlot-05122A?style=flat&logo=hvPlot)
 ![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=SciPy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-05122A?style=flat&logo=Scikit-learn)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-05122A?style=flat&logo=SQLAlchemy)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB)
+![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=Flask)
 ![Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)
 
