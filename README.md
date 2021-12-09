@@ -4,7 +4,7 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 
 More about me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765)
 
-## <details>
+<details>
 	<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸</b></summary>
 	<br/>
  
@@ -17,7 +17,7 @@ More about me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)&nbsp;
 
-  </details>
+ </details>
 <!--
 **itekkie/itekkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
