@@ -9,7 +9,7 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 ![VBScript](https://img.shields.io/badge/-VBScript-05122A?style=flat&logo=VBScript)&nbsp;
  -->
 <!--  </details> -->
-:file_folder: 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
+𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
 </br>
 [<img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter"/>](https://github.com/itekkie/Movies-ETL/blob/main/Movies_ETL.ipynb)
 [<img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R"/>](https://github.com/itekkie/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
@@ -21,7 +21,6 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 [<img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB"/>](https://github.com/itekkie/Mission-to-Mars/blob/main/app.py)
 [<img src="https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark"/>](https://github.com/itekkie/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 [<img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS"/>](https://github.com/itekkie/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
-[<img src="https://img.shields.io/badge/-QlikSense-05122A?style=flat&logo=qlik"/>](https://www.qlik.com)
 [<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau"/>](https://public.tableau.com/app/profile/olesya.irkhina/viz/Final_Dashboard_4_public/1_Actuals?publish=yes)
 
 
