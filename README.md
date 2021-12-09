@@ -3,9 +3,7 @@
 I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that help companies get real value from their data.
 
 More about me on:
-</br>
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
-
 
 [<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765)
 
@@ -42,7 +40,7 @@ More about me on:
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB)
 ![Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)
-![qlik_sense](https://img.shields.io/badge/-QlikSense-05122A?style=flat&logo=Qlik)
+![qlik_sense](https://img.shields.io/badge/-QlikSense-05122A?style=flat&logo=qlikview)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)
 
 
