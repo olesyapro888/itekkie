@@ -9,7 +9,7 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 ![VBScript](https://img.shields.io/badge/-VBScript-05122A?style=flat&logo=VBScript)&nbsp;
  -->
 <!--  </details> -->
-𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
 </br>
 
 [<img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter"/>](https://github.com/itekkie/Movies-ETL/blob/main/Movies_ETL.ipynb)
@@ -25,13 +25,17 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 [<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau"/>](https://public.tableau.com/app/profile/olesya.irkhina/viz/Final_Dashboard_4_public/1_Actuals?publish=yes)
 
 
-More about me on: 
+## More about me on: 
 <!-- [<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
 
 <a href="https://ca.linkedin.com/in/olesya-irkhina-3a890765">
         <img src="img/social-linkedi3.png" alt="Linkedin">
 </a>
 
+## My GitHub Stats
+
+![OlesyaIrkhina's GitHub stats](https://github-readme-stats.vercel.app/api?username=itekkie)](https://github.com/itekkie/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
