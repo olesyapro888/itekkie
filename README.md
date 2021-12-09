@@ -23,8 +23,9 @@ More about me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg
 
 
 <!--  </details> -->
+:books: 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
 ![VBScript](https://img.shields.io/badge/-VBScript-05122A?style=flat&logo=VBScript)
-![Jupyter notebook](https://img.shields.io/badge/-Jupyter_notebook-05122A?style=flat&logo=Jupyter_notebook)
+![Jupyter notebook](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
 ![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
 ![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)
