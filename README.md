@@ -32,7 +32,7 @@ More about me on:
 <!--  </details> -->
 :file_folder: 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
 </br>
-</br>
+
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
 ![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
