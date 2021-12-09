@@ -4,7 +4,10 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 
 More about me on:
 </br>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765)
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
+
+
+[<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765)
 
 <!-- <details>
 	<summary>:books:&nbsp;&nbsp;&nbsp;<b>𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸</b></summary>
@@ -34,16 +37,12 @@ More about me on:
 ![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)
 ![plotly](https://img.shields.io/badge/-plotly-05122A?style=flat&logo=plotly)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
 ![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=SQLite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB)
-![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=Flask)
 ![Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)
-![qlik_sense](https://img.shields.io/badge/-QlikSense-05122A?style=flat&logo=QlikSense)
+![qlik_sense](https://img.shields.io/badge/-QlikSense-05122A?style=flat&logo=Qlik)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)
 
 
