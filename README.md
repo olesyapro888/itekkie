@@ -24,6 +24,8 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 [<img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS"/>](https://github.com/itekkie/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 [<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau"/>](https://public.tableau.com/app/profile/olesya.irkhina/viz/Final_Dashboard_4_public/1_Actuals?publish=yes)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itekkie&layout=compact&show_icons=true&theme=github_dark)
+
 
 ## More about me on: 
 <!-- [<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
@@ -35,8 +37,6 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 ## My GitHub Stats
 
 ![OlesyaIrkhina's GitHub stats](https://github-readme-stats.vercel.app/api?username=itekkie&show_icons=true&theme=github_dark&hide=issues,stars&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itekkie&layout=compact)]
 
 <!--
 **itekkie/itekkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
