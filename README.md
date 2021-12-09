@@ -34,7 +34,7 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 
 ## My GitHub Stats
 
-![OlesyaIrkhina's GitHub stats](https://github-readme-stats.vercel.app/api?username=itekkie&show_icons=true&theme=dracula)
+![OlesyaIrkhina's GitHub stats](https://github-readme-stats.vercel.app/api?username=itekkie&show_icons=true&theme=algolia&hide=issues,stars&count_private=true)
 
 <!--
 **itekkie/itekkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
