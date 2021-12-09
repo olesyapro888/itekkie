@@ -31,12 +31,10 @@ More about me on:
 ![VBScript](https://img.shields.io/badge/-VBScript-05122A?style=flat&logo=VBScript)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
-![tidyverse](https://img.shields.io/badge/-tidyverse-05122A?style=flat&logo=tidyverse)
 ![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
 ![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)
 ![plotly](https://img.shields.io/badge/-plotly-05122A?style=flat&logo=plotly)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
@@ -46,7 +44,7 @@ More about me on:
 ![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=Flask)
 ![Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)
-![qlik_sense](https://img.shields.io/badge/-Qlik_sense-05122A?style=flat&logo=Qlik_sense)
+![qlik_sense](https://img.shields.io/badge/-Qlik_sense-05122A?style=flat&logo=Qlik_Sense)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)
 
 
