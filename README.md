@@ -25,7 +25,7 @@ More about me on: [<img src="https://img.shields.io/badge/-linkedin-05122A?style
 
 
 <!--  </details> -->
-:book: 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
+:file_folder: 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
 </br>
 </br>
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
