@@ -2,10 +2,9 @@
 
 I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that help companies get real value from their data.
 
-More about me on:
-<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
+More about me on: [<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765)
 
-[<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765)
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
 
 <!-- <details>
 	<summary>:books:&nbsp;&nbsp;&nbsp;<b>𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸</b></summary>
@@ -26,7 +25,7 @@ More about me on:
 
 
 <!--  </details> -->
-:books: 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
+:book: 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
 </br>
 </br>
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
