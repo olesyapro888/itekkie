@@ -8,7 +8,7 @@ More about me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg
 	<summary>:books:&nbsp;&nbsp;&nbsp;<b>𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸</b></summary>
 	<br/>
  
-![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark)&nbsp;
@@ -16,6 +16,7 @@ More about me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)&nbsp;
+![VBA](https://img.shields.io/badge/-VBA-05122A?style=flat&logo=VBA)&nbsp;
 
  </details>
 <!--
