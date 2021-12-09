@@ -2,6 +2,12 @@
 
 I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that help companies get real value from their data.
 
+## More about me on: 
+<!-- [<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
+
+<a href="https://ca.linkedin.com/in/olesya-irkhina-3a890765"><img src="img/social-linkedi3.png" alt="Linkedin"></a>
+
+
 <!-- <details>
 	<summary>:books:&nbsp;&nbsp;&nbsp;<b>𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸</b></summary>
 	<br/> -->
@@ -25,14 +31,6 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 [<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau"/>](https://public.tableau.com/app/profile/olesya.irkhina/viz/Final_Dashboard_4_public/1_Actuals?publish=yes)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itekkie&layout=compact&show_icons=true&theme=github_dark)
-
-
-## More about me on: 
-<!-- [<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
-
-<a href="https://ca.linkedin.com/in/olesya-irkhina-3a890765">
-        <img src="img/social-linkedi3.png" alt="Linkedin">
-</a>
 
 ## My GitHub Stats
 
