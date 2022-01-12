@@ -5,8 +5,7 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 ## More about me on: 
 <!-- [<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
 
-<a href="https://ca.linkedin.com/in/olesya-irkhina-3a890765"><img src="img/social-linkedi3.png" alt="Linkedin"></a>
-
+<a href="https://www.linkedin.com/in/olesya-irkhina/"><img src="img/social-linkedi3.png" alt="Linkedin"></a>
 
 <!-- <details>
 	<summary>:books:&nbsp;&nbsp;&nbsp;<b>𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸</b></summary>
