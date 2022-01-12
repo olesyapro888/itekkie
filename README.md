@@ -29,7 +29,8 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 [<img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS"/>](https://github.com/itekkie/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 [<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau"/>](https://public.tableau.com/app/profile/olesya.irkhina/viz/Final_Dashboard_4_public/1_Actuals?publish=yes)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itekkie&layout=compact&show_icons=true&theme=github_dark)
+<!-- &theme=github_dark -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itekkie&layout=compact&show_icons=true)
 
 ## My GitHub Stats
 
