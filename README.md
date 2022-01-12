@@ -30,7 +30,7 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 [<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau"/>](https://public.tableau.com/app/profile/olesya.irkhina/viz/Final_Dashboard_4_public/1_Actuals?publish=yes)
 
 <!-- &theme=github_dark -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itekkie&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itekkie&langs_count=8&layout=compact&show_icons=true)
 
 ## My GitHub Stats
 
