@@ -18,7 +18,7 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 </br>
 
 [<img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter"/>](https://github.com/itekkie/Movies-ETL/blob/main/Movies_ETL.ipynb)
-[<img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R"/>](https://github.com/itekkie/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
+[<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau"/>](https://public.tableau.com/app/profile/olesya.irkhina/viz/Final_Dashboard_4_public/1_Actuals?publish=yes)
 [<img src="https://img.shields.io/badge/-python-05122A?style=flat&logo=python"/>](https://github.com/itekkie/election-analysis/blob/main/PyPoll_Challenge.py)
 [<img src="https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas"/>](https://github.com/itekkie/school_district_analysis/blob/main/PyCitySchools_Challenge.ipynb)
 [<img src="https://img.shields.io/badge/-plotly-05122A?style=flat&logo=plotly"/>](https://github.com/itekkie/plotly_chart/blob/main/static/js/charts.js)
@@ -27,7 +27,8 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 [<img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB"/>](https://github.com/itekkie/Mission-to-Mars/blob/main/app.py)
 [<img src="https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark"/>](https://github.com/itekkie/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 [<img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS"/>](https://github.com/itekkie/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
-[<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau"/>](https://public.tableau.com/app/profile/olesya.irkhina/viz/Final_Dashboard_4_public/1_Actuals?publish=yes)
+
+<!-- [<img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R"/>](https://github.com/itekkie/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R) -->
 
 <!-- &theme=github_dark -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itekkie&langs_count=8&layout=compact&show_icons=true)
