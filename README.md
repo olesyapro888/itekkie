@@ -31,7 +31,7 @@ I am Olesya and I enjoy working with ✨data✨. I ❤️ to solve problems that
 <!-- [<img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R"/>](https://github.com/itekkie/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R) -->
 
 <!-- &theme=github_dark -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itekkie&langs_count=8&layout=compact&show_icons=true)
+					![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itekkie&langs_count=8&layout=compact&show_icons=true)
 
 ## My GitHub Stats
 
