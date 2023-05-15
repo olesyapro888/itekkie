@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Olesya and I like doing what I ✨can't✨. I ❤️ to help companies to grow their business.
+I am Olesya and I like doing what I ✨can't✨. I thoroughly enjoy assisting companies in their growth endeavors, as it brings me great satisfaction to contribute to their success.
 
 ## More about me on: 
 <!-- [<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
