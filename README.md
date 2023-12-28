@@ -33,9 +33,9 @@ I am Olesya and I like doing what I ✨can't✨. I thoroughly enjoy assisting co
 <!-- &theme=github_dark -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itekkie&langs_count=8&layout=compact&show_icons=true)
 
-## My GitHub Stats
+<!--## My GitHub Stats
 
-![OlesyaIrkhina's GitHub stats](https://github-readme-stats.vercel.app/api?username=itekkie&show_icons=true&theme=github_dark&hide=issues,stars&count_private=true)
+![OlesyaIrkhina's GitHub stats](https://github-readme-stats.vercel.app/api?username=itekkie&show_icons=true&theme=github_dark&hide=issues,stars&count_private=true)-->
 
 <!--
 **itekkie/itekkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
