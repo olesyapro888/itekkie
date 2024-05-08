@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Olesya and I like doing what I ✨can't✨. I thoroughly enjoy assisting companies in their growth endeavors, as it brings me great satisfaction to contribute to their success ✨💼📈.
-
+I am Olesya, and I thrive on challenges that seem ✨impossible✨. I'm passionate about helping businesses expand and succeed 🚀📊. It brings me immense joy to play a role in their achievements and see them flourish 🌱💡.
 ## More about me on: 
 <!-- [<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>](https://ca.linkedin.com/in/olesya-irkhina-3a890765) -->
 
